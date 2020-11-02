@@ -12,3 +12,6 @@ Some Important features regarding RaspberryPi are as follows
   3. Only 3.3V is the highest input voltage
   4. WiringPi and bcm2835 are the library for C-Language in RaspberryPi
   5. Node-Red has good community support of all 
+  6. Pull Up resistor are connected to GPIO-0 to GPIO-8
+  7. Pull Down resistor are connected to GPIO-9 to GPIO-27
+  8. Vout= (Vin*R2)/(R1+R2)
