@@ -5,7 +5,7 @@ The components used here are as follows
   3. Push Button Switch
   4. Generic Jumper Wires 
 
-Some Important features regarding RaspberryPi are as follows
+## Some Important features regarding RaspberryPi are as follows
 
   1. gpiozero python doesn't support 1-WireProtocol
   2. No Analog inputs in Pi
