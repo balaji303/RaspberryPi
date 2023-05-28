@@ -16,3 +16,8 @@ The components used here are as follows
   6. Pull Up resistor are connected to GPIO-0 to GPIO-8
   7. Pull Down resistor are connected to GPIO-9 to GPIO-27
   8. Vout= (Vin*R2)/(R1+R2)
+
+### Projects
+
+ 1. [stonepaperpi](https://github.com/balaji303/stonepaperpi)
+        A Game build on Python where Human fight aganist the RaspberryPie
